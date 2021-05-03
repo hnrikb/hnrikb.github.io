@@ -70,6 +70,13 @@ header {
     color: #ff9d8e;
 }
 
+/* HEJ */
+.hej {
+    grid-area: hej;
+    margin-top: 300px;
+    margin-left: 330px;
+}
+
 /* About-Section */
 .about {
     grid-area: about;
