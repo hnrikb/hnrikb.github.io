@@ -81,7 +81,7 @@ header {
 .about {
     grid-area: about;
     text-align: center;
-    margin-top: 250px;
+    margin-top: 300px;
     margin-bottom: 200px;
 }
 
